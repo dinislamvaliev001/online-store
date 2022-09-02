@@ -1,4 +1,4 @@
-# online_store_prefabricated_project_1
+# online-store
 Интернет-магазин  
 _является сборным проектом номер 1_
 
